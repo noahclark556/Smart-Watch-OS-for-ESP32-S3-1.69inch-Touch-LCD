@@ -29,30 +29,6 @@ This project is a comprehensive operating system built for the ESP32-S3 1.69inch
 
 - Normally when I do comprehensive projects like this, I keep detailed notes for each and every step, bug, etc. Unfortunately, I didn't have the time to do that during development. I'll try to swing back around later and add more detailed notes.
 
-## Directory Structure
-
-```
-.
-├── include
-│   └── README
-├── lib
-│   ├── Arduino_DriveBus
-│   │   ├── LICENSE
-│   │   ├── library.properties
-│   │   └── examples
-│   └── README
-├── src
-│   ├── layout
-│   │   └── layout.cpp
-│   ├── main.cpp
-│   └── resources
-│       └── IMG_NOAH.h
-├── test
-│   └── README
-├── .gitignore
-└── platformio.ini
-```
-
 ## Getting Started
 
 ### Prerequisites
