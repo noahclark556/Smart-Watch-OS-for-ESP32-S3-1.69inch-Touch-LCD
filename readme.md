@@ -14,6 +14,8 @@
 
 **External Hardware**: Waveshare ESP32-S3 1.69inch Touch LCD
 
+> **NOTE**: A newer version of this project is now available, which is built on the ESP-IDF framework. It includes more advanced features and significantly improved documentation. If you need additional information, refer to the README in that repository.
+
 ## Overview
 
 This project is a comprehensive operating system built for the ESP32-S3 1.69inch Touch LCD, utilizing the LVGL (Light and Versatile Graphics Library) for creating a user-friendly graphical interface. The application integrates various functionalities, including Wi-Fi connectivity, a dashboard layout, and a customizable agenda feature. This project is more a proof of concept / starting point for a more complex operating system. This code can be ported into arduino IDE if needed, however I recommend using PlatformIO in VSCode for development.
